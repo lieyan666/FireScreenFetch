@@ -1,0 +1,24 @@
+{
+  "name": "firescreenfetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "screenshot-desktop": "^1.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lieyan666/FireScreenFetch.git"
+  },
+  "author": "lieyan",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/lieyan666/FireScreenFetch/issues"
+  },
+  "homepage": "https://github.com/lieyan666/FireScreenFetch#readme"
+}
